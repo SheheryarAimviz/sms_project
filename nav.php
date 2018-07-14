@@ -259,25 +259,25 @@
                </a>
                <ul aria-expanded="false" class="collapse">
                   <li>
-                    <a href="class.html" aria-expanded="false">
+                    <a href="class.php" aria-expanded="false">
                       <i class="fa fa-sitemap"></i>
                       <span>&nbsp;Class</span>
                     </a>
                   </li>
                   <li>
-                    <a href="class.html" aria-expanded="false">
+                    <a href="subject.php" aria-expanded="false">
                       <i class="fa fa-book"></i>
                       <span>&nbsp;Subject</span>
                     </a>
                   </li>
                   <li>
-                    <a href="class.html" aria-expanded="false">
+                    <a href="section.php" aria-expanded="false">
                       <i class="fa fa-star"></i>
                       <span>&nbsp;Section</span>
                     </a>
                   </li>
                   <li>
-                    <a href="class.html" aria-expanded="false">
+                    <a href="syllabus.php" aria-expanded="false">
                       <i class="fa icon-syllabus"></i>
                       <span>&nbsp;Syllabus</span>
                     </a>

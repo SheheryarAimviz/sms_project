@@ -7,8 +7,8 @@
  * ======================================================================== */
 .btn-primary:not(:disabled):not(.disabled):active{
     color: #fff;
-    background-color: #00c6ff;
-    border-color: #00c6ff;
+    background-color: #021c54;
+    border-color: #021c54;
 }
  .toggle.off {
    background: #f70000 !important;

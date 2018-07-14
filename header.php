@@ -9,7 +9,7 @@
       <meta name="author" content="">
       <!-- Favicon icon -->
       <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
-      <title>Ela - Bootstrap Admin Dashboard Template</title>
+      <title>eduinsto</title>
       <!-- Bootstrap Core CSS -->
       <link href="css/lib/bootstrap/bootstrap.min.css" rel="stylesheet">
       <link href="css/icomoon.css" rel="stylesheet">
